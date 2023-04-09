@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+  "scripts": {
+    "start": "node your-script.js"
+}
+ 
+ 
+}
